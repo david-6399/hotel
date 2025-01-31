@@ -20,7 +20,7 @@ return new class extends Migration
             $table->string('country');
             $table->string('phone');
             $table->string('email');
-            $table->numeric('rating')->nullable();
+            $table->decimal('rating')->nullable();
             $table->timestamps();
 
             $table->foreign('user_id')->references('id')->on('users');

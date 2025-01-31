@@ -5,20 +5,20 @@
         <!-- Hotel Images -->
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
             <div class="bg-white rounded-lg shadow-lg overflow-hidden object-cover">
-                <img src="{{asset('build/images/hotel.jpg')}}" alt="Hotel Image 1" class="w-full ">
+                <img src="" alt="Hotel Image 1" class="w-full ">
             </div>
             <div class="grid grid-cols-2 gap-4">
                 <div class="bg-white rounded-lg shadow-lg overflow-hidden">
-                    <img src="{{asset('build/images/hotel.jpg')}}" alt="Hotel Image 2" class="w-full">
+                    <img src="" alt="Hotel Image 2" class="w-full">
                 </div>
                 <div class="bg-white rounded-lg shadow-lg overflow-hidden">
-                    <img src="{{asset('build/images/hotel.jpg')}}" alt="Hotel Image 3" class="w-full">
+                    <img src="" alt="Hotel Image 3" class="w-full">
                 </div>
                 <div class="bg-white rounded-lg shadow-lg overflow-hidden">
-                    <img src="{{asset('build/images/hotel.jpg')}}" alt="Hotel Image 4" class="w-full">
+                    <img src="" alt="Hotel Image 4" class="w-full">
                 </div>
                 <div class="bg-white rounded-lg shadow-lg overflow-hidden">
-                    <img src="{{asset('build/images/hotel.jpg')}}" alt="Hotel Image 5" class="w-full">
+                    <img src="" alt="Hotel Image 5" class="w-full">
                 </div>
             </div>
         </div>
